@@ -1,10 +1,10 @@
-## Hi there 👋
+## Hey! glad to see you <img alt=":Smiley Wave:" src="assets/smileywave.gif" wdith="20" height="20"> </img>
+
+I'm SchneeFawl, teenager based in India. <br> <br>
+I try to give my best in my tasks even without talents. <br> <br>
+Currently very much new to computer languages. <br> <br>
 
 <!--
-**SchneeFawl/SchneeFawl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
