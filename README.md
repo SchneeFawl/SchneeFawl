@@ -1,8 +1,18 @@
 ## Hey! glad to see you <img alt=":Smiley Wave:" src="assets/smileywave.gif" wdith="20" height="20"> </img>
 
 I'm SchneeFawl, teenager based in India. <br> <br>
-I try to give my best in my tasks even without talents. <br> <br>
-Currently very much new to computer languages. <br> <br>
+I try to give my best in my work. <br> <br>
+Currently very much new to computer programming languages. My favorite tools are VS Code, Adobe Photoshop, Vim, kitty and GitHub.
+- I'm currently learning these languages: <br> <br>
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br>
+I'm currently working on <strong><a href="https://github.com/SchneeFawl/Symm-Pad">Symm-Pad</a></strong>, my favorite project by far. This project got me interested in PCBs and macropads.
+<br><br>
+
+<strong>More about me!</strong>
+- I am a huge procrastinator
+- I prefer cats over dogs xd
+- Hobbies: coding, development, gaming, sketching and reading
 
 <!--
 - 🔭 I’m currently working on ...
@@ -11,6 +21,5 @@ Currently very much new to computer languages. <br> <br>
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
