@@ -1,16 +1,18 @@
 ## Hey! glad to see you <img alt=":Smiley Wave:" src="assets/smileywave.gif" wdith="20" height="20"> </img>
 
-I'm SchneeFawl, teenager based in India. <br> <br>
-I try to give my best in my work. <br> <br>
-My favorite tools are VS Code, Adobe Photoshop, Neovim, kitty and GitHub.
-- I'm trying to learn these languages: <br> <br>
+I'm SchneeFawl, teenager based in India. <br>
+
+My favorite tools are VS Code, Aseprite, neovim, kitty and GitHub.
+- Currently I am learning these languages: <br> <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 <br>
 I'm currently working on <strong><a href="github.com/SchneeFawl/Spot_Vinyl">Spot_Vinyl</a></strong>, a personal project.
 <br><br>
 
+---
+
 <strong>More about me!</strong>
-- I am a huge procrastinator
+- I really like to use linux (arch) and open source softwares
 - I prefer cats over dogs xd
 - Hobbies: coding, development, gaming, sketching and reading
 
