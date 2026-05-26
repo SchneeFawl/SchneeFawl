@@ -6,7 +6,7 @@ My favorite tools are VS Code, Aseprite, neovim, kitty and GitHub.
 - Currently I am learning these languages: <br> <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 <br>
-I'm currently working on <strong><a href="github.com/SchneeFawl/Spot_Vinyl">Spot_Vinyl</a></strong>, a personal project.
+I'm currently working on <strong><a href="github.com/SchneeFawl/mist-shell">Spot_Vinyl</a></strong>, a linux shell focusing on customizability and performance.
 <br><br>
 
 ---
